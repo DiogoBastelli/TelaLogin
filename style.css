@@ -1,0 +1,14 @@
+.form-container{
+    max-width: 550px;
+    padding: 1rem;
+}
+
+html, body{
+    height: 100%;
+}
+
+.Login{
+    font-size: 30px;
+    text-align: center;
+    
+}
